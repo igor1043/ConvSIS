@@ -1,11 +1,10 @@
 /*
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 
-DATA: 10/08/17
-PROGRAMA: ConvSIS
-LINGUAGEM: C++ 
-
-
--Converte n�mero decimal para bin�rio, octal e hexadecimal
 */
 
 #include<iostream>
